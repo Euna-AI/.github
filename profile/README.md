@@ -8,5 +8,4 @@ The three core focus areas of the Euna AI team are AI Enablement, AI Engineering
 
 ---
 
-For Euna org members: see the Euna AI Team to keep with our latest news and see what we're working on [internal dashboard](https://euna-ai.github.io/ai-team-dashboard/)
-for project status and documentation.
+For Euna org members: see the Euna AI team [internal dashboard](https://euna-ai.github.io/ai-team-dashboard/) to keep up with our latest news and see what we're working on.
